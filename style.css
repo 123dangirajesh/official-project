@@ -1,0 +1,27 @@
+
+h1, h2
+  {
+    color:orange; text-align:center;
+  }
+
+  p{
+
+  }
+
+p, li, ul
+{
+  font-size: 21px;
+  color:#5c9eb8;
+  margin:50px;  #spacing b/w the outside of the border elements.
+  Padding:30px; # spacing b/w the content of the elements.
+  font-family:cursive;
+}
+body
+{
+  background-color:;
+}
+
+input[type=text]
+{
+  background-color: #e3e2da;
+}
